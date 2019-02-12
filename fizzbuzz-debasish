@@ -6,6 +6,5 @@ for number in range(1,101):
             print("Fizz")
     elif number % 5 == 0:
             print("Buzz")
-    else:
+ ##   else:
         print(number)
-#This is to test the code infront of Thiru
